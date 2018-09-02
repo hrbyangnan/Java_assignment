@@ -1,0 +1,24 @@
+Bulls & Cows game result.
+Your code: 1235
+Computer's code: 3170
+---
+Turn 1:
+Your guessed 1234, scoring 0 bulls and 2 cows
+Computer guessed 2704, scoring 0 bulls and 1 cows
+---
+Turn 2:
+Your guessed 5678, scoring 0 bulls and 2 cows
+Computer guessed 4875, scoring 1 bulls and 0 cows
+---
+Turn 3:
+Your guessed 4789, scoring 0 bulls and 2 cows
+Computer guessed 3409, scoring 0 bulls and 1 cows
+---
+Turn 4:
+Your guessed 4794, scoring 0 bulls and 2 cows
+Computer guessed 7043, scoring 0 bulls and 1 cows
+---
+Turn 5:
+Your guessed 1570, scoring 0 bulls and 2 cows
+Computer guessed 841, scoring 0 bulls and 1 cows
+---
